@@ -108,7 +108,22 @@ Refer to the `database/README.md` file for database setup instructions.
 
 ## 📸 Screenshots
 
-Screenshots of the application interface and major features will be added here.
+## 📸 Application Screenshots
+
+### 1. Home Page
+Explore career pathways and discover personalized career guidance.
+
+![Career Mentor Home Page](screenshots/homepage.jpeg)
+
+### 2. Career Assessment
+Students provide their basic information and select their interests.
+
+![Career Assessment](screenshots/assessment.jpeg)
+
+### 3. Future Preferences
+Students select their preferred working environment, career goals, and study preferences.
+
+![Career Preferences](screenshots/preferences.jpeg)
 
 ## 🚀 Future Enhancements
 
